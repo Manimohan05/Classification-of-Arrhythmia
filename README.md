@@ -26,7 +26,7 @@ It can be found at: [https://archive.ics.uci.edu/ml/datasets/Arrhythmia](https:/
 
 ### Result 
 
-![](https://raw.githubusercontent.com/shsarv/Project-Arrhythmia/master/Image/result.png)
+![](https://github.com/Manimohan05/Classification-of-Arrhythmia/blob/main/Image/result.png)
  
 
 ### Conclusion
